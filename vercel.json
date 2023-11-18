@@ -1,5 +1,8 @@
 {
     "version": 2,
+    "regions": [
+        "hkg1"
+    ],
     "routes": [
         {
             "src": "/(.*)",
